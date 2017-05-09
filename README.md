@@ -1,6 +1,3 @@
-![control](https://cloud.githubusercontent.com/assets/16393979/25853746/d22d079a-349b-11e7-9575-34b88f2e0c53.jpg)
-
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/chreco/chreco.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
